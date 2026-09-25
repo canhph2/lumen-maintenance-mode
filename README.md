@@ -11,7 +11,7 @@ php -v | grep "PHP 7.4"
 ```
 
 ```
-composer require congnqnexlesoft/lumen-maintenance-mode
+composer require canhph2/lumen-maintenance-mode
 ```
 
 ## How to configure
